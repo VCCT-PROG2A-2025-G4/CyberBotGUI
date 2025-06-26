@@ -55,8 +55,7 @@ This is a WPF-based chatbot designed to promote cybersecurity awareness. It simu
 ---
 
 ## Video Demonstration
-add link
-
+https://youtu.be/0M6FcG_n26s
 ---
 ## GitHub Commit Log
 
