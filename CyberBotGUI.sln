@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyberBotGUI", "CyberBotGUI.csproj", "{DB2B46C8-A96F-427D-9B23-CE4F9A6F9E2A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+	ProjectSection(SolutionItems) = preProject
+		ChatBot.cs = ChatBot.cs
+		CyberSecurityKnowledgeBase.cs = CyberSecurityKnowledgeBase.cs
+		ResponseGenerator.cs = ResponseGenerator.cs
+		UserProfile.cs = UserProfile.cs
+		VoicePlayer.cs = VoicePlayer.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB2B46C8-A96F-427D-9B23-CE4F9A6F9E2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB2B46C8-A96F-427D-9B23-CE4F9A6F9E2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB2B46C8-A96F-427D-9B23-CE4F9A6F9E2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB2B46C8-A96F-427D-9B23-CE4F9A6F9E2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {200FA8E4-8A54-462E-9B76-3AEDD5CA216D}
+	EndGlobalSection
+EndGlobal
